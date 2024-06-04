@@ -9,3 +9,6 @@
 * 使用自定义的Material Shader  
 * 支持材质球编辑  
 * 材质球中可以引用系统的SceneTextures  
+
+测试地图：  
+![Example Image](testmap.jpeg)
